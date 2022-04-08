@@ -1,0 +1,9 @@
+How to create Linux system in Windows
+1. Use WSL from Microsoft in Windows system
+2. Enable Windows Sub-system, enable WSL2
+3. Enter Microsoft Store, install Ubuntu (use Ubuntu without version will install the newest one)
+4. ATTENTION: In the first time to setup ubuntu, you will need to enter a Admin Password, during the password entering, there will no character displaying, but you are entering.
+5. Enter root, 'sudo -i', enter the password.
+6. Install ipython3, sometimes you won't able to install it with apt-get install ipython3, just use 'apt-get upgrade' to upgrade all apps in Linux
+7. Try 'apt-get install essential', try 'apt-get install ipython3' again.
+8. Keep all build-in functions are up to date.
